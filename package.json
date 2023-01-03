@@ -1,0 +1,20 @@
+{
+  "name": "automatic-testing",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --experimental-modules --no-warnings ./tests/capitalize.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarinaRodina/automatic-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarinaRodina/automatic-testing/issues"
+  },
+  "homepage": "https://github.com/MarinaRodina/automatic-testing#readme"
+}
